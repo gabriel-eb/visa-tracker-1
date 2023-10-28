@@ -1,6 +1,6 @@
 {
   "name": "Visa Appointment Tracker",
-  "repository": "https://github.com/dhyegocalota/visa-appointment-tracker",
+  "repository": "https://github.com/gabriel-eb/visa-tracker-1",
   "buildpacks": [
     {
       "url": "heroku/nodejs"

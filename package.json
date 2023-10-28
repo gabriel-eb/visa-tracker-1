@@ -2,7 +2,7 @@
   "name": "visa-appointment-tracker",
   "version": "0.1.0",
   "main": "./dist/src/index.js",
-  "repository": "https://github.com/dhyegocalota/visa-appointment-tracker",
+  "repository": "https://github.com/gabriel-eb/visa-tracker-1",
   "author": "Dhyego Calota <dhyegofernando@gmail.com>",
   "license": "MIT",
   "private": true,
